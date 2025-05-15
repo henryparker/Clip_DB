@@ -1,0 +1,3 @@
+- Use Config to set path and image folders
+- python Add.py to store images into dataset
+- python Search.py to do image searching
